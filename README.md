@@ -7,7 +7,8 @@
 
 E-Commerce Database is a way to keep track of anything you need. It has the ability to store information for your products and easily search for saved data.<br>
 <br>
-[Uploading Untitled_ Mar 6, 2024 5_32 PM.webm…]()
+[Untitled_ Mar 6, 2024 5_32 PM.webm](https://github.com/RLCastaldy/E-Commerce_Database/assets/140565239/9a3d8a40-62c6-40a3-9bbd-70fac6f41974)
+<br>
 
 ## Table of Contents
 
